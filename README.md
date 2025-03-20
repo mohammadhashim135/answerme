@@ -81,10 +81,10 @@ package.json
 ```
 ---
 
-## **Screenshots 📸**
 
 
-![Dark](https://github.com/user-attachments/assets/a4ff7c95-6d63-4e38-9a61-9da3d6aa6c31)
+
+
 
 
 ---
