@@ -89,28 +89,28 @@ package.json
 
 ---
 ## **Contributing** 🤝
-Contributions are welcome! If you’d like to improve LetMeCut, feel free to fork the repo and submit a pull request.
+Contributions are welcome! If you’d like to improve AnswerMe, feel free to fork the repo and submit a pull request.
 
 ### **Steps to Contribute:**
-**Fork the repository**
-### **1. Create a new branch:**
+### **1. Fork the repository**
+### **2. Create a new branch:**
 ```bash
 git checkout -b feature-branch
 ```
 
-### **2. Make your changes and commit:**
+### **3. Make your changes and commit:**
 
 ```bash
 git commit -m "Added new feature"
 ```
-### **3. Push to the branch:**
+### **4. Push to the branch:**
 ```bash
 git push origin feature-branch
 ```
-### **Open a Pull Request**
+### **5. Open a Pull Request**
 ---
 ## **License** 📜
 This project is licensed under the MIT License.
 
-💡 Developed with ❤️ by [Mohammad Hashim](https://github.com/mohammadhashim135/let-me-cut.git)
+💡 Developed with ❤️ by [Mohammad Hashim](https://github.com/mohammadhashim135/answerme.git)
 
